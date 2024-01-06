@@ -118,7 +118,9 @@ The HTA Attack method will allow you to clone a site and perform powershell inje
 
 set:webattack>3
 ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ```Web Templates ```
+
+Não foi possível seguir com o método proposto pela DIO, talvez por um problema de atualização.
 ```
 The first method will allow SET to import a list of pre-defined web
  applications that it can utilize within the attack.
@@ -140,13 +142,9 @@ The first method will allow SET to import a list of pre-defined web
 set:webattack>2
 ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-Verificando o ip da máquina para informá-lo a ferramenta, porém se o setoolkit já identificou o ip é só teclar ```enter```.
-- URL para clone: http://www.facebook.com
-```
-set:webattack> Enter the url to clone:http://www.facebook.com
-```
 
+Verificando o ip da máquina para informá-lo a ferramenta, porém se o setoolkit já identificou o ip é só teclar ```enter```.
+- Templates: ```2.Google```
 
 ### Resutados
-Em andamento
-<!--![Alt text](./passwd.png "Optional title")-->
+![Alt text](./resultado.jpg "Optional title")
