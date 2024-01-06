@@ -139,12 +139,15 @@ The first method will allow SET to import a list of pre-defined web
 
   99) Return to Webattack Menu
 
-set:webattack>2
+set:webattack>1
 ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
 
 Verificando o ip da máquina para informá-lo a ferramenta, porém se o setoolkit já identificou o ip é só teclar ```enter```.
 - Templates: ```2.Google```
+
+
+![Alt text](./google.jpg "Optional title")
 
 ### Resutados
 ![Alt text](./resultado.jpg "Optional title")
